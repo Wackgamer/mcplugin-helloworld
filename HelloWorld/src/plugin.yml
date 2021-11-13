@@ -1,0 +1,10 @@
+name: HelloWorld
+version: 1.0
+author: Juanma__
+main: me.Juanma__.helloworld.Main
+description: Mi  primer plugin
+
+commands:
+  hello:
+   aliases: [hi]
+   description: Este es el comando hello!
