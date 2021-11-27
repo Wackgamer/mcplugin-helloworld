@@ -1,10 +1,13 @@
 name: HelloWorld
-version: 1.0
+version: 1.1
 author: Juanma__
 main: me.Juanma__.helloworld.Main
-description: Mi  primer plugin
+description: Mi primer plugin
 
 commands:
   hello:
    aliases: [hi]
    description: Este es el comando hello!
+  rainbow:
+   aliases: [rb]
+   description: Este comando te manda un texto en colores!
