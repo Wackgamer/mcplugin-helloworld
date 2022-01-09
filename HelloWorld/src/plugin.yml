@@ -1,5 +1,5 @@
 name: HelloWorld
-version: 1.1
+version: 1.2
 author: Juanma__
 main: me.Juanma__.helloworld.Main
 description: Mi primer plugin
@@ -11,3 +11,6 @@ commands:
   rainbow:
    aliases: [rb]
    description: Este comando te manda un texto en colores!
+   test:
+   aliases: [test]
+   description: Abre una GUI en el juego
