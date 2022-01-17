@@ -3,7 +3,7 @@
 Mi primer plugin de Minecraft
 Version disponible: 1.8.8
 
-Version actual del plugin: v1.1
+Version actual del plugin: v1.2
 
 Changelog:
 
